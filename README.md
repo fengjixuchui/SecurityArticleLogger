@@ -109,6 +109,8 @@
 
 51.[利用OpenSSL对反弹shell进行流量加密](https://mp.weixin.qq.com/s/fQ6zczaQGsN9b_SP3Gr6lg)
 
+52.[记一次从linux打进域控](https://xz.aliyun.com/t/12193)
+
 
 
 
@@ -344,6 +346,8 @@
 
 [利用DNS A记录执行Shellcode](https://mp.weixin.qq.com/s/9lMV0-xA2hXBIM9vskG3nw)
 
+[DNS隧道原理与其流量分析(基础篇)](https://mp.weixin.qq.com/s/Hxf73WjspCUK8IriiK3CWA)
+
 
 
 ## Linux系统相关
@@ -564,6 +568,8 @@
 
 [印象笔记 价值 5000$的SSRF 案例分析](https://mp.weixin.qq.com/s/TFCh4vR5Zoh_1l5zDf5FFg)
 
+[GPT都解决不了的Burp无用流量过滤问题](https://mp.weixin.qq.com/s/tNi2XfQ99uK7cKhwVOp6FQ)
+
 
 
 ## 神器工具相关
@@ -705,6 +711,12 @@
 ## 面试相关
 
 [阿里面试官的”说一下从url输入到返回请求的过程“问的难度就是不一样！](https://mp.weixin.qq.com/s/wFtlHf3yUAfSeXcP8BEWuw)
+
+[全面了解DNS：原理与过程](https://mp.weixin.qq.com/s/EdZo1ddAyPEN61xwunaKLQ)
+
+[如何选择适合的公共 DNS](https://mp.weixin.qq.com/s/79KIavy5hQhCAGft5u7P1g)
+
+[EDNS用时空换取精准制导](https://mp.weixin.qq.com/s/HywnYfCqDT5wD-VgE0Hmxg)
 
 
 
